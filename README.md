@@ -1,4 +1,4 @@
-    # Judger
+# Judger
 
 An extremely simple Flutter App.
 
